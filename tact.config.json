@@ -1,0 +1,12 @@
+{
+    "projects": [
+        {
+            "name": "sample",
+            "path": "./contracts/test_contract.tact",
+            "output": "./sources/output",
+            "options": {
+                "debug": true
+              }
+        }
+    ]
+}
